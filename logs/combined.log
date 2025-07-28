@@ -1,0 +1,36 @@
+2025-05-28 01:55:09 [INFO]: Book added: 68361fa5886e0769e903a71b - Test Book
+2025-05-28 01:55:09 [INFO]: Fetched books page 1 with limit 10
+2025-05-28 01:55:09 [INFO]: Fetched book by ID: 68361fa5886e0769e903a723
+2025-05-28 01:55:09 [WARN]: Book not found: 68361fa5886e0769e903a727
+2025-05-28 01:55:09 [INFO]: Book updated: 68361fa5886e0769e903a72a
+2025-05-28 01:55:10 [ERROR]: Validation error: Price is required
+2025-05-28 01:55:10 [INFO]: Book deleted: 68361fa6886e0769e903a730
+2025-05-28 01:55:10 [WARN]: Book not found for deletion: 68361fa6886e0769e903a735
+2025-05-28 01:57:55 [INFO]: Book added: 6836204bc2556fa0d9b06c85 - Test Book
+2025-05-28 01:57:55 [INFO]: Fetched books page 1 with limit 10
+2025-05-28 01:57:55 [INFO]: Fetched book by ID: 6836204bc2556fa0d9b06c8d
+2025-05-28 01:57:55 [WARN]: Book not found: 6836204bc2556fa0d9b06c91
+2025-05-28 01:57:55 [ERROR]: Validation error: Price is required
+2025-05-28 01:57:56 [INFO]: Book deleted: 6836204cc2556fa0d9b06c99
+2025-05-28 01:57:56 [WARN]: Book not found for deletion: 6836204cc2556fa0d9b06c9e
+2025-05-28 01:59:38 [INFO]: Book added: 683620b20a37602740ee900d - Test Book
+2025-05-28 01:59:39 [INFO]: Fetched books page 1 with limit 10
+2025-05-28 01:59:39 [INFO]: Fetched book by ID: 683620b30a37602740ee9015
+2025-05-28 01:59:39 [WARN]: Book not found: 683620b30a37602740ee9019
+2025-05-28 01:59:39 [ERROR]: Validation error: Price is required
+2025-05-28 01:59:39 [INFO]: Book deleted: 683620b30a37602740ee9023
+2025-05-28 01:59:39 [WARN]: Book not found for deletion: 683620b30a37602740ee9028
+2025-05-28 02:03:35 [INFO]: Book added: 6836219f8943165a6ea73a1a - Test Book
+2025-05-28 02:03:35 [INFO]: Fetched books page 1 with limit 10
+2025-05-28 02:03:35 [INFO]: Fetched book by ID: 6836219f8943165a6ea73a22
+2025-05-28 02:03:35 [WARN]: Book not found: 6836219f8943165a6ea73a26
+2025-05-28 02:03:36 [INFO]: Book deleted: 6836219f8943165a6ea73a31
+2025-05-28 02:03:36 [WARN]: Book not found for deletion: 683621a08943165a6ea73a36
+2025-05-28 02:12:27 [ERROR]: Validation error: Price must be a string
+2025-05-28 02:12:47 [ERROR]: Validation error: Published date is required
+2025-05-28 02:12:59 [ERROR]: Validation error: Published date cannot be in the future
+2025-05-28 02:13:08 [INFO]: Book added: 683623dc5135c9bc7c8bec7f - Example Book
+2025-05-28 02:13:30 [INFO]: Fetched books page 1 with limit 10
+2025-05-28 02:14:36 [ERROR]: Validation error: Price must be a string
+2025-05-28 02:14:47 [ERROR]: Validation error: Published date is required
+2025-05-28 02:16:59 [INFO]: Book deleted: 683623dc5135c9bc7c8bec7f

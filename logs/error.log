@@ -1,0 +1,8 @@
+2025-05-28 01:55:10 [ERROR]: Validation error: Price is required
+2025-05-28 01:57:55 [ERROR]: Validation error: Price is required
+2025-05-28 01:59:39 [ERROR]: Validation error: Price is required
+2025-05-28 02:12:27 [ERROR]: Validation error: Price must be a string
+2025-05-28 02:12:47 [ERROR]: Validation error: Published date is required
+2025-05-28 02:12:59 [ERROR]: Validation error: Published date cannot be in the future
+2025-05-28 02:14:36 [ERROR]: Validation error: Price must be a string
+2025-05-28 02:14:47 [ERROR]: Validation error: Published date is required

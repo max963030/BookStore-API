@@ -1,0 +1,93 @@
+{
+  "info": {
+    "_postman_id": "fd7af873-6156-404e-9165-91434fed7da9",
+    "name": "BOOK-STORE-API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "39968288"
+  },
+  "item": [
+    {
+      "name": "Add a Book",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Example Book\",\n  \"author\": \"John Doe\",\n  \"price\": \"19.99\",\n  \"publishedAt\": \"2023-05-28\"\n}\n",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://book-store-api-t8kf.onrender.com/api/books",
+          "protocol": "https",
+          "host": ["book-store-api-t8kf", "onrender", "com"],
+          "path": ["api", "books"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get All Books",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://book-store-api-t8kf.onrender.com/api/books",
+          "protocol": "https",
+          "host": ["book-store-api-t8kf", "onrender", "com"],
+          "path": ["api", "books"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Update a Book",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Updated Book Title\",\n  \"author\": \"Jane Doe\",\n  \"price\": \"25.99\",\n  \"publishedAt\": \"2024-05-27\"\n}\n",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://book-store-api-t8kf.onrender.com/api/books/683633b8516cf42106e9617e",
+          "protocol": "https",
+          "host": ["book-store-api-t8kf", "onrender", "com"],
+          "path": ["api", "books", "683633b8516cf42106e9617e"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Delete a Book",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://book-store-api-t8kf.onrender.com/api/books/683633b8516cf42106e9617e",
+          "protocol": "https",
+          "host": ["book-store-api-t8kf", "onrender", "com"],
+          "path": ["api", "books", "683633b8516cf42106e9617e"]
+        }
+      },
+      "response": []
+    }
+  ]
+}
