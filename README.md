@@ -123,9 +123,9 @@ book-store/
 
 ## 👤 Author
 
-**Chandan Kumar**  
-📧 [LinkedIn](https://www.linkedin.com/in/lookingforchandankumar/)  
-💻 [GitHub](https://github.com/chandan-official)
+**Yashapl Simgh**  
+📧 [LinkedIn](https://www.linkedin.com/in/yashpal-singh-bb120925a/)
+💻 [GitHub](https://github.com/max963030)
 
 ---
 
