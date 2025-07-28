@@ -123,7 +123,7 @@ book-store/
 
 ## 👤 Author
 
-**Yashapl Simgh**  
+**Yashapl Singh**  
 📧 [LinkedIn](https://www.linkedin.com/in/yashpal-singh-bb120925a/)
 💻 [GitHub](https://github.com/max963030)
 
